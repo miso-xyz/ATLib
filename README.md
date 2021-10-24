@@ -2,6 +2,7 @@
 Library for <a href="Audiotool.com">Audiotool</a>, currently in early stages
 
 # To-Do
+- Support for Comments & Assets
 - More Metadata
 - Remix any song (would be funny yet is very unlikely)
 
